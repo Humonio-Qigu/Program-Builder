@@ -2,6 +2,7 @@
   "name": "nuxt-app",
   "private": true,
   "type": "module",
+  "version": "6.10.0",
   "engines": {
     "node": ">=22"
   },
